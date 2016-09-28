@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "atob": "^2.0.3",
-    "ldapauth-fork": "~2.5.0",
+    "ldapauth-fork": "2.5.2",
     "passport-strategy": "1.x.x"
   },
   "devDependencies": {
