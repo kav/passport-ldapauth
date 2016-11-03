@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "passport-strategy": "1.x.x",
-    "ldapauth-fork": "~2.5.0"
+    "ldapauth-fork": "https://github.com/kav/node-ldapauth-fork.git"
   },
   "devDependencies": {
     "basic-auth": "1.0.x",
